@@ -1,6 +1,17 @@
 body{
     background-color: lightgreen;
 }
-h1{
+.header{
     color: darkred;
+    font-family: 'Nunito', sans-serif;
+}
+p{  
+    font-family: 'Roboto Slab', serif;
+    padding: 5px;
+}
+hr{
+    border: white 5px;
+}
+ul{
+    background-image: linear-gradient(right,green, white, red );
 }
